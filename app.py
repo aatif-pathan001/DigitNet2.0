@@ -10,8 +10,7 @@ import torch.nn as nn
 #Page Layout is set
 
 st.set_page_config(page_title="DigitNet2.0", layout="wide")
-st.title(" DigitNet : Handwritten Digit ✏️ Recognition Web App")
-st.write('Upload an image to test my model.')
+st.title(" DigitNet \n A Handwritten Digit ✏️ Recognition Model")
 
 
 # function to make image compatible to feed into model
